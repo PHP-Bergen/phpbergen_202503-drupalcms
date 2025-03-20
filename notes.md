@@ -14,34 +14,33 @@ Last ned fra https://www.drupal.org/download-latest/cms
 ```shell
 ddev config --project-type=drupal11 --docroot=web
 ddev start
-ddev composer install
+ddev composer install 
 ddev launch
 ```
 
 ## New features
+Install process
 Admin menu/navbar
 Dashboard
 Trash
 Theme for e-post
-Workflow ?
+Theming, Components
+Settings/modules included in DrupalCMS
 Extend/Project browser
 Recipies web/core/recipes
+Workflow
 ECA
 
 
-### AI droppe nå
+### AI (later)
 AI integration
 AI Agents
+AI ECS
 
-## Steps
+## Relevant links:
 
-1. Download and unzip
-2. Start ddev
-3. Go over install process
-4. Demo recipies
-5. Auto updates
-6. How to use composer
-7. AI features
+Design system for Drupal CMS
+https://www.drupal.org/about/starshot/blog/announcing-the-selected-partner-for-the-new-design-system-for-experience-builder-and-drupal-cms
 
-
-Finel thoughts
+Experience builder
+https://www.drupal.org/about/starshot/initiatives/experience-builder
